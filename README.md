@@ -1,5 +1,5 @@
 # Titanic---Machine-Learning-Models
-Seven Different Machine Learning Models were trained, validated and tested on Titanic Dataset. These models predict the survival rate of people from the Titanic wreck. Evaluation metrics such as accuracy, precision and recall scores were calculated for each model and the best model was picked.
+Different Machine Learning Models were trained, validated and tested on Titanic Dataset. These models predict the survival rate of people from the Titanic wreck. Evaluation metrics such as accuracy, precision and recall scores were calculated for each model and the best model was picked.
 The procedure for this project is inspired from self-learning in LinkedIn Learning courses: Applied Machine Learning: Foundations and Applied Machine Learning: Algorithms.
 
 # Procedure
